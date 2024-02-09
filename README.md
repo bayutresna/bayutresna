@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning fullstack asp.net core and laravel framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bayutresna2000@gmail.com
+- instagram : @soloskadi
 
 <!---
 bayutresna/bayutresna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
