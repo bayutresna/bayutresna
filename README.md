@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bayutresna
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning fullstack asp.net core and laravel framework
-- 💞️ I’m looking to collaborate on ...
+- currently working using TALL stack
 - 📫 How to reach me bayutresna2000@gmail.com
 - instagram : @soloskadi
 
